@@ -1,0 +1,11 @@
+category_id,category_name,monthly_budget,priority_level,icon
+1,Groceries,500.00,High,basket
+2,Entertainment,150.00,Medium,tv
+3,Dining,300.00,Medium,utensils
+4,Utilities,350.00,High,bolt
+5,Shopping,200.00,Low,cart
+6,Housing,1000.00,High,home
+7,Transportation,250.00,Medium,car
+8,Healthcare,200.00,High,medical
+9,Education,100.00,Medium,book
+10,Personal Care,100.00,Low,personal
